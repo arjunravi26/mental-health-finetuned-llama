@@ -1,4 +1,4 @@
-# 🧠 Mental Health Fine-Tuned LLaMA 2
+# Mental Health Fine-Tuned LLaMA 2
 
 > A QLoRA fine-tuned LLaMA 2 7B Chat model trained on mental health counseling conversations, served through a FastAPI backend with a clean chat UI — containerized and ready to deploy.
 
